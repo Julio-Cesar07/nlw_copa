@@ -5,7 +5,7 @@ type HomeProps = {
 export default function Home(props: HomeProps) {
   return (
     <div>
-      <h1>Contagem: {props.count}</h1>
+      <h1>Contegem: {props.count}</h1>
     </div>
   )
 }
